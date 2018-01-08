@@ -1,0 +1,31 @@
+{
+  "name": "jest-examples",
+  "version": "1.0.0",
+  "description": "Jest在手，天下我有",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDEast1029/jest-examples.git"
+  },
+  "keywords": [
+    "jest",
+    "react"
+  ],
+  "author": "jd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JDEast1029/jest-examples/issues"
+  },
+  "homepage": "https://github.com/JDEast1029/jest-examples#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.0.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "jest": "^22.0.4",
+    "regenerator-runtime": "^0.11.1"
+  }
+}
